@@ -1,8 +1,8 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               'To Autumn'
-tagline:             'A digital edition.'
+title:               '"To Autumn"'
+tagline:             'A Digital Edition.'
 description:         'This digital edition of "To Autumn" by John Keats allows readers and scholars to view paralell drafts of the poem alongside the final poem.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/test2'
