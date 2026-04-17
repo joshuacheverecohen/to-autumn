@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               To Autumn
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               'To Autumn'
+tagline:             'A digital edition.'
+description:         'This digital edition of "To Autumn" by John Keats allows readers and scholars to view paralell drafts of the poem alongside the final poem.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/test2'
 
 # About/contact
 author:
